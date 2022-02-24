@@ -1,0 +1,15 @@
+1.	Opn the php strom
+2.	Give the location to folder
+3.	To go to any folder type cd folder/file name 
+4.	For ex: cd src
+5.	Cd app
+6.	Note: create comp always in app file
+7.	To create component: ng g c componentName for ex: {login}
+8.	To create directive: ng g d directiveName
+9.	To create interface: ng g I interfaceName
+10.	Done start coding
+11.	Run code: ng serve
+12.	App comp already passed in index.html
+13.	Now start final coding like first go in app component.html
+14.	Next steps select all the by default code in app component.html and type new component file for ex:  <app-movie-list></app-movie-list>
+
